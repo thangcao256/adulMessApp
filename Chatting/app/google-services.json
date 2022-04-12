@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6866087746",
+    "project_id": "chatting-b7ee1",
+    "storage_bucket": "chatting-b7ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6866087746:android:c4a53fe9f68db965f462db",
+        "android_client_info": {
+          "package_name": "com.thangcao.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6866087746-3497j50i38fqb6tcqjsq3500a8us3o9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhHvjy49NuEyQgbs-Z4aDsyrvhCoR1bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6866087746-3497j50i38fqb6tcqjsq3500a8us3o9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
